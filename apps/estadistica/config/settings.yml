@@ -25,7 +25,7 @@ test:
 all:
   .settings:
     # Form security secret (CSRF protection)
-    csrf_secret:            87115250259f42b92eb48107d5b3cb2beed5e8d5
+    csrf_secret:            a4lk5yTTxkVe9fcczty4466
 
     # Output escaping settings
     escaping_strategy:      true
@@ -33,3 +33,14 @@ all:
 
     # Enable the database manager
     use_database:           true
+    i18n:                   true
+    default_culture:        es
+    i18n:                   true
+    standard_helpers:       [Partial, Cache, Text, Url]
+    
+  .actions:
+    login_module:           seguridad
+    login_action:           login
+    
+    error_404_module:       inicio
+    error_404_action:       error404
