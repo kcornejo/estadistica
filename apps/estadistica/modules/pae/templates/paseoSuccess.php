@@ -203,7 +203,9 @@ License: You must have a valid license purchased only from themeforest(the above
                                 <span>
                                     <font size="3">
                                     <p align="justify">
-                                        Somos un paseo y residencial que brinda la mejor comodidad, seguridad y tranquilidad a las personas que en él se encuentran o lo frecuentan. Les ofrecemos a las personas un lugar donde pueden encontrar todo sin tener que ir tan lejos. 
+                                        La idea de este nuevo proyecto llamado “Futu-Live” surgió del deseo de ir un paso adelante sobre lo que va a venir en el futuro. Es por ello que surgió este nombre, “Futu” haciendo referencia al futuro y “Live” que en español significa vivir; para llegar a un concepto que significa “Vivir en el Futuro”.
+                                    Queremos hacer que los residenciales tengan un nuevo concepto quitando lo rutinario o común. Tener un tipo residencial y paseo en conjunto enfocado en las nuevas tendencias tecnológicas del futuro junto con diversas técnicas de reciclaje ambientalistas.
+                                    Está ubicado en el Km. 19 Carretera al Pacífico.
                                     </p>
                                     </font>
                                 </span>
@@ -217,7 +219,7 @@ License: You must have a valid license purchased only from themeforest(the above
                             <div class="col-md-8">
                                 <font size="3">
                                 <p align="justify">
-
+                                    Somos un paseo y residencial que brinda la mejor comodidad, seguridad y tranquilidad a las personas que en él se encuentran o lo frecuentan. Les ofrecemos a las personas un lugar donde pueden encontrar todo sin tener que ir tan lejos. 
                                 </p>
                                 </font>
                             </div>
@@ -236,19 +238,6 @@ License: You must have a valid license purchased only from themeforest(the above
 
                         </div>
                         <div class="col-md-12">
-
-                            <div class="col-md-6">
-                                <h3><i class="fa fa-search"></i> Descripcion del Proyecto</h3>
-                                <hr/>
-                                <font size="3">
-                                <p align="justify">
-                                    La idea de este nuevo proyecto llamado “Futu-Live” surgió del deseo de ir un paso adelante sobre lo que va a venir en el futuro. Es por ello que surgió este nombre, “Futu” haciendo referencia al futuro y “Live” que en español significa vivir; para llegar a un concepto que significa “Vivir en el Futuro”.
-                                    Queremos hacer que los residenciales tengan un nuevo concepto quitando lo rutinario o común. Tener un tipo residencial y paseo en conjunto enfocado en las nuevas tendencias tecnológicas del futuro junto con diversas técnicas de reciclaje ambientalistas.
-                                    Está ubicado en el Km. 19 Carretera al Pacífico.
-
-                                </p>
-                                </font>
-                            </div>
                             <div class="col-md-6">
                                 <h3><i class="fa fa-tree"></i> Empresa Sustentable</h3>
                                 <hr/>
