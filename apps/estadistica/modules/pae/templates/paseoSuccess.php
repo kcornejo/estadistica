@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!-- 
 Template Name: Metronic - Responsive Admin Dashboard Template build with Twitter Bootstrap 3.3.1
-Version: 3.6
+Version: 3.6ss
 Author: KeenThemes
 Website: http://www.keenthemes.com/
 Contact: support@keenthemes.com

@@ -4,7 +4,7 @@ Template Name: Metronic - Responsive Admin Dashboard Template build with Twitter
 Version: 3.6
 Author: KeenThemes
 Website: http://www.keenthemes.com/
-Contact: support@keenthemes.com
+Contact: support@keenthemes.coms
 Follow: www.twitter.com/keenthemes
 Like: www.facebook.com/keenthemes
 Purchase: http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes
